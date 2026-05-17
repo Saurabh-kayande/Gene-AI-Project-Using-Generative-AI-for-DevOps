@@ -236,9 +236,7 @@ We explored **two approaches** to generate Dockerfiles using **AI-powered automa
 
 This automation can significantly improve **DevOps efficiency** by reducing manual Dockerfile creation time.
 
-🚀 **Next Steps:**
 
-•	Extend this project to generate **Kubernetes Manifests.**
 
 •	Integrate with **CI/CD Pipelines** for automated builds.
 
