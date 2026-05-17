@@ -242,6 +242,4 @@ This automation can significantly improve **DevOps efficiency** by reducing manu
 
 •	Explore **Open-Source LLMs like Mistral or DeepSeek.**
 
-📢 **Contributions are welcome**. If you found this helpful, consider **starring** ⭐ the repository and submitting **pull requests** for improvements.
 
-Happy coding 🚀
